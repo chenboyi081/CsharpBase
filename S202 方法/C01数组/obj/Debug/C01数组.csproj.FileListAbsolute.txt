@@ -1,0 +1,5 @@
+D:\广州传智\20140218.Net第13期基础班\20140301方法\Code\20140301\C01数组\bin\Debug\C01数组.exe
+D:\广州传智\20140218.Net第13期基础班\20140301方法\Code\20140301\C01数组\bin\Debug\C01数组.pdb
+D:\广州传智\20140218.Net第13期基础班\20140301方法\Code\20140301\C01数组\obj\Debug\C01数组.csprojResolveAssemblyReference.cache
+D:\广州传智\20140218.Net第13期基础班\20140301方法\Code\20140301\C01数组\obj\Debug\C01数组.exe
+D:\广州传智\20140218.Net第13期基础班\20140301方法\Code\20140301\C01数组\obj\Debug\C01数组.pdb

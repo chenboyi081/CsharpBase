@@ -1,0 +1,5 @@
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C02作业\bin\Debug\C02作业.exe
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C02作业\bin\Debug\C02作业.pdb
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C02作业\obj\Debug\C02作业.exe
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C02作业\obj\Debug\C02作业.pdb
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C02作业\obj\Debug\C02作业.csprojResolveAssemblyReference.cache

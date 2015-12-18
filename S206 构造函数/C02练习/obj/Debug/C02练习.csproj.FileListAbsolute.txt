@@ -1,0 +1,5 @@
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C02练习\bin\Debug\C02练习.exe
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C02练习\bin\Debug\C02练习.pdb
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C02练习\obj\Debug\C02练习.exe
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C02练习\obj\Debug\C02练习.pdb
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C02练习\obj\Debug\C02练习.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\广州传智\20140218.Net第13期基础班\20140220变量和数据类型\Code\20140220\C01Demo\bin\Debug\C01Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140220变量和数据类型\Code\20140220\C01Demo\bin\Debug\C01Demo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.csprojResolveAssemblyReference.cache
+F:\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.exe
+F:\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.pdb
+F:\20140220变量和数据类型\Code\20140220\C01Demo\bin\Debug\C01Demo.exe
+F:\20140220变量和数据类型\Code\20140220\C01Demo\bin\Debug\C01Demo.pdb
+F:\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.csprojResolveAssemblyReference.cache
+F:\net基础班上课资料\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.exe
+F:\net基础班上课资料\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.pdb
+D:\学习\net基础\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.exe
+D:\学习\net基础\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.pdb
+C:\Users\cboii\Desktop\C#基础复习\Code\C01Demo\obj\Debug\C01Demo.exe
+C:\Users\cboii\Desktop\C#基础复习\Code\C01Demo\obj\Debug\C01Demo.pdb

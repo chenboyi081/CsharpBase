@@ -1,0 +1,8 @@
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C05Demo\bin\Debug\C05Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C05Demo\bin\Debug\C05Demo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C05Demo\obj\Debug\C05Demo.csprojResolveAssemblyReference.cache
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C05Demo\obj\Debug\C05Demo.Form1.resources
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C05Demo\obj\Debug\C05Demo.Properties.Resources.resources
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C05Demo\obj\Debug\C05Demo.csproj.GenerateResource.Cache
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C05Demo\obj\Debug\C05Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140309构造函数\Code\20140309\C05Demo\obj\Debug\C05Demo.pdb

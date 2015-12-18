@@ -1,0 +1,5 @@
+D:\广州传智\20140218.Net第13期基础班\20140302方法\Code\20140302\C03方法\bin\Debug\C03方法.exe
+D:\广州传智\20140218.Net第13期基础班\20140302方法\Code\20140302\C03方法\bin\Debug\C03方法.pdb
+D:\广州传智\20140218.Net第13期基础班\20140302方法\Code\20140302\C03方法\obj\Debug\C03方法.csprojResolveAssemblyReference.cache
+D:\广州传智\20140218.Net第13期基础班\20140302方法\Code\20140302\C03方法\obj\Debug\C03方法.exe
+D:\广州传智\20140218.Net第13期基础班\20140302方法\Code\20140302\C03方法\obj\Debug\C03方法.pdb

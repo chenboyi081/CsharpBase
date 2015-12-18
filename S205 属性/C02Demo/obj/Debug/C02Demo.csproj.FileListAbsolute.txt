@@ -1,0 +1,10 @@
+D:\广州传智\20140218.Net第13期基础班\20140308属性与构造函数\Code\20140308\C02Demo\bin\Debug\C02Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140308属性与构造函数\Code\20140308\C02Demo\bin\Debug\C02Demo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140308属性与构造函数\Code\20140308\C02Demo\obj\Debug\C02Demo.csprojResolveAssemblyReference.cache
+D:\广州传智\20140218.Net第13期基础班\20140308属性与构造函数\Code\20140308\C02Demo\obj\Debug\C02Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140308属性与构造函数\Code\20140308\C02Demo\obj\Debug\C02Demo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140308属性\Code\20140308\C02Demo\bin\Debug\C02Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140308属性\Code\20140308\C02Demo\bin\Debug\C02Demo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140308属性\Code\20140308\C02Demo\obj\Debug\C02Demo.csprojResolveAssemblyReference.cache
+D:\广州传智\20140218.Net第13期基础班\20140308属性\Code\20140308\C02Demo\obj\Debug\C02Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140308属性\Code\20140308\C02Demo\obj\Debug\C02Demo.pdb

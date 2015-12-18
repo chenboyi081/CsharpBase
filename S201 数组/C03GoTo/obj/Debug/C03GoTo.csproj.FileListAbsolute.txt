@@ -1,0 +1,4 @@
+D:\广州传智\20140218.Net第13期基础班\20140228数组\Code\20140228\C03GoTo\bin\Debug\C03GoTo.exe
+D:\广州传智\20140218.Net第13期基础班\20140228数组\Code\20140228\C03GoTo\bin\Debug\C03GoTo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140228数组\Code\20140228\C03GoTo\obj\Debug\C03GoTo.exe
+D:\广州传智\20140218.Net第13期基础班\20140228数组\Code\20140228\C03GoTo\obj\Debug\C03GoTo.pdb

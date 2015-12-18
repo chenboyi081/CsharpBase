@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C01数组", "C01数组\C01数组.csproj", "{93AB78FE-79C2-4503-82A0-1661EE4DD2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C02值类型与引用类型", "C02值类型与引用类型\C02值类型与引用类型.csproj", "{9239FB4C-2472-4C0B-B599-2E600D2E15B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03数组的常用算法", "C03数组的常用算法\C03数组的常用算法.csproj", "{4A0B10D1-F8C1-43C9-9486-56E994FF0043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04异常处理", "C04异常处理\C04异常处理.csproj", "{22982A46-131B-457A-9103-035D9EA2457C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93AB78FE-79C2-4503-82A0-1661EE4DD2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AB78FE-79C2-4503-82A0-1661EE4DD2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AB78FE-79C2-4503-82A0-1661EE4DD2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AB78FE-79C2-4503-82A0-1661EE4DD2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9239FB4C-2472-4C0B-B599-2E600D2E15B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9239FB4C-2472-4C0B-B599-2E600D2E15B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9239FB4C-2472-4C0B-B599-2E600D2E15B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9239FB4C-2472-4C0B-B599-2E600D2E15B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0B10D1-F8C1-43C9-9486-56E994FF0043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0B10D1-F8C1-43C9-9486-56E994FF0043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0B10D1-F8C1-43C9-9486-56E994FF0043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0B10D1-F8C1-43C9-9486-56E994FF0043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22982A46-131B-457A-9103-035D9EA2457C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22982A46-131B-457A-9103-035D9EA2457C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22982A46-131B-457A-9103-035D9EA2457C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22982A46-131B-457A-9103-035D9EA2457C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

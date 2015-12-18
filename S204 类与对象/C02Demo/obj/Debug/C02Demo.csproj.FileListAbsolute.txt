@@ -1,0 +1,9 @@
+D:\广州传智\20140218.Net第13期基础班\20140307类与对象\Code\20140307\C02Demo\bin\Debug\C02Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140307类与对象\Code\20140307\C02Demo\bin\Debug\C02Demo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140307类与对象\Code\20140307\C02Demo\obj\Debug\C02Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140307类与对象\Code\20140307\C02Demo\obj\Debug\C02Demo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140307类与对象\Code\20140307\C02Demo\obj\Debug\C02Demo.csprojResolveAssemblyReference.cache
+F:\net基础班上课资料\20140307类与对象\Code\20140307\C02Demo\obj\Debug\C02Demo.exe
+F:\net基础班上课资料\20140307类与对象\Code\20140307\C02Demo\obj\Debug\C02Demo.pdb
+D:\学习\net基础\20140307类与对象\Code\20140307\C02Demo\obj\Debug\C02Demo.exe
+D:\学习\net基础\20140307类与对象\Code\20140307\C02Demo\obj\Debug\C02Demo.pdb

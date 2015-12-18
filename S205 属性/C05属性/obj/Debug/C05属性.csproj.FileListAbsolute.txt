@@ -1,0 +1,15 @@
+D:\广州传智\20140218.Net第13期基础班\20140308属性\Code\20140308\C05属性\bin\Debug\C05属性.exe
+D:\广州传智\20140218.Net第13期基础班\20140308属性\Code\20140308\C05属性\bin\Debug\C05属性.pdb
+D:\广州传智\20140218.Net第13期基础班\20140308属性\Code\20140308\C05属性\obj\Debug\C05属性.exe
+D:\广州传智\20140218.Net第13期基础班\20140308属性\Code\20140308\C05属性\obj\Debug\C05属性.pdb
+F:\net基础班上课资料\20140308属性\Code\20140308\C05属性\obj\Debug\C05属性.exe
+F:\net基础班上课资料\20140308属性\Code\20140308\C05属性\obj\Debug\C05属性.pdb
+F:\net基础班上课资料\20140308属性\Code\20140308\C05属性\bin\Debug\C05属性.exe
+F:\net基础班上课资料\20140308属性\Code\20140308\C05属性\bin\Debug\C05属性.pdb
+F:\net基础班上课资料\20140308属性\Code\20140308\C05属性\obj\Debug\C05属性.csprojResolveAssemblyReference.cache
+I:\工作\net基础\20140308属性\Code\20140308\C05属性\obj\Debug\C05属性.exe
+I:\工作\net基础\20140308属性\Code\20140308\C05属性\obj\Debug\C05属性.pdb
+D:\学习\net基础\20140308属性\Code\20140308\C05属性\obj\Debug\C05属性.exe
+D:\学习\net基础\20140308属性\Code\20140308\C05属性\obj\Debug\C05属性.pdb
+C:\Users\cboii\Desktop\CsharpBase\Code\S205 属性\C05属性\obj\Debug\C05属性.exe
+C:\Users\cboii\Desktop\CsharpBase\Code\S205 属性\C05属性\obj\Debug\C05属性.pdb

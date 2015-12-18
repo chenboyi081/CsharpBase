@@ -1,0 +1,7 @@
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C05WHILE循环\bin\Debug\C05WHILE循环.exe
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C05WHILE循环\bin\Debug\C05WHILE循环.pdb
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C05WHILE循环\obj\Debug\C05WHILE循环.csprojResolveAssemblyReference.cache
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C05WHILE循环\obj\Debug\C05WHILE循环.exe
+D:\广州传智\20140218.Net第13期基础班\20140225循环控制\Code\20140225\C05WHILE循环\obj\Debug\C05WHILE循环.pdb
+D:\学习\net基础\20140225循环控制\Code\20140225\C05WHILE循环\obj\Debug\C05WHILE循环.exe
+D:\学习\net基础\20140225循环控制\Code\20140225\C05WHILE循环\obj\Debug\C05WHILE循环.pdb

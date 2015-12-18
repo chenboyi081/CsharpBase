@@ -1,0 +1,4 @@
+D:\广州传智\20140218.Net第13期基础班\20140302方法\Code\20140302\C04Demo\bin\Debug\C04Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140302方法\Code\20140302\C04Demo\bin\Debug\C04Demo.pdb
+D:\广州传智\20140218.Net第13期基础班\20140302方法\Code\20140302\C04Demo\obj\Debug\C04Demo.exe
+D:\广州传智\20140218.Net第13期基础班\20140302方法\Code\20140302\C04Demo\obj\Debug\C04Demo.pdb
