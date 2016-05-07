@@ -14,3 +14,5 @@ D:\学习\net基础\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debu
 D:\学习\net基础\20140220变量和数据类型\Code\20140220\C01Demo\obj\Debug\C01Demo.pdb
 C:\Users\cboii\Desktop\C#基础复习\Code\C01Demo\obj\Debug\C01Demo.exe
 C:\Users\cboii\Desktop\C#基础复习\Code\C01Demo\obj\Debug\C01Demo.pdb
+C:\Users\cboii\Desktop\StudySpace\Git\C sharp base\S101 变量和数据类型\C01Demo\obj\Debug\C01Demo.exe
+C:\Users\cboii\Desktop\StudySpace\Git\C sharp base\S101 变量和数据类型\C01Demo\obj\Debug\C01Demo.pdb

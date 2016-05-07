@@ -1,0 +1,4 @@
+D:\广州传智\20140218.Net第13期基础班\20140311结构与数组高级\Code\20140311\C01Review\bin\Debug\C01Review.exe
+D:\广州传智\20140218.Net第13期基础班\20140311结构与数组高级\Code\20140311\C01Review\bin\Debug\C01Review.pdb
+D:\广州传智\20140218.Net第13期基础班\20140311结构与数组高级\Code\20140311\C01Review\obj\Debug\C01Review.exe
+D:\广州传智\20140218.Net第13期基础班\20140311结构与数组高级\Code\20140311\C01Review\obj\Debug\C01Review.pdb
